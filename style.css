@@ -380,6 +380,25 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.btn-container-c {
+  display: flex;
+  justify-content: center;
+  font-weight: 750;
+  gap: 1rem;
+
+}
+.cert-info-upper-container {
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 2rem;
+  width: 45rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  background: (250, 250, 250);
+  margin: 2rem auto;
+  padding: 0.5rem;
+}
+
 /* CONTACT */
 
 #contact {
