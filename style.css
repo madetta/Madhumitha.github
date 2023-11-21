@@ -387,8 +387,8 @@ article .icon {
 .btn-container-c {
   display: flex;
   justify-content: center;
-  font-weight: 750;
-  gap: 1rem;
+  font-weight: 800;
+  gap: 0.5rem;
 
 }
 .cert-info-upper-container {
