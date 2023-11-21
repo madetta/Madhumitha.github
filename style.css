@@ -380,6 +380,10 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+#certifications {
+  position: relative;
+}
+
 .btn-container-c {
   display: flex;
   justify-content: center;
